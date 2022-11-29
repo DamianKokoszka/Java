@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.javafee.java.lessons.lesson14._tmp.MainForm
+
