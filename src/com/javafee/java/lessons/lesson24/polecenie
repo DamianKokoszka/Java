@@ -1,0 +1,34 @@
+Serwis samochodyw
+
+Obiekty:
+1. Samochod
+- id (Integer)
+- nazwa (String)
+- rodzaj (String)
+- opis (String)
+- pojemnosc silnika (Double)
+- moc silnika (Double)
+- typ silnika (String)
+- czy sprawny (Boolean)
+- lista napraw (List<Naprawa>)
+- właściciel (Klient)
+
+2. Naprawa
+
+3. Klient
+
+Akcje:
+1.1 Dodanie Samochodu
+1.2 Modyfikacja Samochodu
+1.3 Usunięcie Samochodu
+1.4 Pobranie Samochodu
+
+2.1 Dodanie Naprawy
+2.2 Modyfikacja Naprawy
+2.3 Usunięcie Naprawy
+2.4 Pobranie Naprawy
+
+3.1 Dodanie Klient
+3.2 Modyfikacja Klient
+3.3 Usunięcie Klient
+3.4 Pobranie Klient

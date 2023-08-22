@@ -1,0 +1,3 @@
+Samochody:  marka: BMW ,model: M4 ,Opis: Bez wypadkowa ,Pojemnosc silnika:2993.0 ,Moc silnika:510.0 ,Typ silnika:Benzyna ,Wypakowy:true ,Klient: Pierwszy
+Samochody:  marka: Audi ,model: M4 ,Opis: Bez wypadkowa ,Pojemnosc silnika:2993.0 ,Moc silnika:510.0 ,Typ silnika:Diesel ,Wypakowy:false ,Klient: Drugi
+Samochody:  marka: Mercedes ,model: M4 ,Opis: Wypadkowy ,Pojemnosc silnika:2993.0 ,Moc silnika:510.0 ,Typ silnika:Benzyna ,Wypakowy:false ,Klient: Piaty
