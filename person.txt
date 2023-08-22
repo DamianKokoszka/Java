@@ -1,0 +1,4 @@
+Dawid,20
+Adam,27
+Krzysiek,32
+Olek,19
