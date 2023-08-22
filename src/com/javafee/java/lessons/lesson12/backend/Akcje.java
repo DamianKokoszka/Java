@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Akcje {
     private int wymiar;
+    private int powierzchnia;
 
 
     public static boolean sprawdzSkos(char[][] plansza, char symbol) {
